@@ -67,7 +67,7 @@ body {
   width: 50%;
   background:#015CC8;
   flex: 0;
-  flex-basis: 100%;
+  flex-basis: 50%;
 }
 .progress {
   flex: 10;
